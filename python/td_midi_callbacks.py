@@ -1,6 +1,6 @@
 
 
-# luis arandas 03-06-2023
+# vecnode 03-06-2023
 # links akai apc40mk2 midi codes through DAT (Text) execute
 
 def onReceiveMIDI(dat, rowIndex, message, channel, index, value, input, bytes):
